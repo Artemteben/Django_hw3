@@ -1,11 +1,11 @@
-# Знакомство с Django
+# Знакомство с Django продолжается
 
-# Home_work2_Django
+# Home_work3_Django
 
 ## Установка
 
 1. **Клонируйте репозиторий:**
-   git@github.com:Artemteben/Django_hw2.git
+   git@github.com:Artemteben/Django_hw3.git
 
 2. **Создайте виртуальное окружение и активируйте его:**
     ```sh
